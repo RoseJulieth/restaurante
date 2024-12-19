@@ -1,0 +1,4 @@
+bcrypt
+pymysql
+requests
+logging
